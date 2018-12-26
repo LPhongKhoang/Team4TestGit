@@ -1,2 +1,3 @@
 fileA : 1
 on develop change 1
+on feature/skill1: change 1
