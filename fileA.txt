@@ -1,5 +1,4 @@
 fileA : 1
 on develop change 1
-on feature/skill1: change 1
-
-test stage of file
+on develop change 2
+tung sua dong 6
