@@ -1,4 +1,5 @@
 fileA : 1
 on develop change 1
 on develop change 2
-tung sua dong 6
+DJ sua dong 6
+DJ add line 7
