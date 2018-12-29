@@ -1,5 +1,4 @@
 
 on develop change 1
 on develop change 2
-DJ sua dong 6
 DJ add line 7
