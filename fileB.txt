@@ -5,7 +5,7 @@ On Develop : change 2
  Row 4
  Row 5
  feature1(){
- cap nhat
+    return true;
  
  }
 
