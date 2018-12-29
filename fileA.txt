@@ -1,4 +1,6 @@
 
 on develop change 1
 on develop change 2
+thuy add manaskill
 DJ add line 7
+thuy add line 5
